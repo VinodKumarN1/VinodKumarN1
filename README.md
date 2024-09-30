@@ -30,8 +30,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinodkumarn1" alt="vinodkumarn1" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinodkumarn1&show_icons=true&locale=en&layout=compact" alt="vinodkumarn1" /></p>
+<p align="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinodkumarn1&hide_border=true&show_icons=true&&theme=gruvbox&bg_color=151515">
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinodkumarn1&show_icons=true&locale=en" alt="vinodkumarn1" /></p>
+<p align="left">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=vinodkumarn1&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinodkumarn1&" alt="vinodkumarn1" /></p>
+
+
+<p align="left">
+  <a href="https://github.com/vinodkumarn1">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vinodkumarn1&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
