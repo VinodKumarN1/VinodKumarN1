@@ -11,7 +11,7 @@
  <h3 align="left">About Me</h3><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
 ✨ Full Stack Web Development Enthusiast <br>
-🔭 I’m currently working as **Individual Contributor @** [GSSoC](https://www.linkedin.com/posts/vinodkumarn2_gssoc-opensource-contributor-activity-7246470530243911680-B1R6utm_source=share&utm_medium=member_desktop)<br>
+🔭 I’m currently working as **Individual Contributor @** [GSSoC](https://www.linkedin.com/posts/vinodkumarn2_gssoc-opensource-contributor-activity-7246470530243911680-B1R6/?utm_source=share&utm_medium=member_desktop)<br>
 👯 I’m looking to collaborate on **Frontend Developer | JavaScript Developer** <br>
 🌱 I’m currently learning **React.JS and Node.JS** <br>
 📫 How to reach me: [Mail me](vinodkumarnkumar850@gmail.com) <br>
