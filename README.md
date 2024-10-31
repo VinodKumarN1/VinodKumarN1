@@ -84,18 +84,25 @@
 
 <br>
 
-## GSSOC(24) Badges 🪶
+## GSSOC(24) and Hacktoberfest Badges 🪶
 
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard"></a>
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
- 
 </div>
+<br>
+  <div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="100px" height="100px"/>
+<img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" width="100px" height="100px"/>
+<img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-tumbler-0-0-0.webp" width="100px" height="100px"/>
+<img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-tumbler-hoodie-0-0.webp" width="100px" height="100px"/>
+  </div>
 
+  
 <!------------------------------------------------------------------------------- Projects Section ------------------------------------------------------------------------------------------------ -->
 
 
