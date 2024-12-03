@@ -68,8 +68,8 @@
       <br>R
     </td>
      <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="55" height="55" />
-      <br>Bootstrap
+      <img src="https://skillicons.dev/icons?i=tailwindcss" alt="icon" width="55" height="55" />
+      <br>Tailwind CSS
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="55" height="55" />
@@ -114,6 +114,7 @@
 | Musicfy | [view](https://musicfy-vin.netlify.app/) | [view](https://github.com/VinodKumarN1/Musicfy-Clone) | `HTML` `CSS` `JavaScript` | 
 | Web-Development--Student-Internship-System | [view](https://internship-survey.netlify.app/) | [view](https://github.com/VinodKumarN1/Web-Development--Student-Internship-System) | `PHP` `JavaScript` `CSS` `HTML` `SQL`  | 
 | Techsture | [view](https://drive.google.com/file/d/1M0N9CtazJrXOrhcThd95a9Uxx9gFKQYT/view) | [view](https://drive.google.com/file/d/1M0N9CtazJrXOrhcThd95a9Uxx9gFKQYT/view) | `Open-Source Toolbox` `Business Model`|
+| MedPulse | Still in Progress | [view](https://github.com/VinodKumarN1/medpulse) | `Next.js` `TypeScript` `Node.js` `Tailwind CSS` `Appwrite` |
 
 <br>
 <!------------------------------------------------------------------------------- Github stats Section ------------------------------------------------------------------------------------------------ -->
