@@ -114,7 +114,7 @@
 | Musicfy | [view](https://musicfy-vin.netlify.app/) | [view](https://github.com/VinodKumarN1/Musicfy-Clone) | `HTML` `CSS` `JavaScript` | 
 | Web-Development--Student-Internship-System | [view](https://internship-survey.netlify.app/) | [view](https://github.com/VinodKumarN1/Web-Development--Student-Internship-System) | `PHP` `JavaScript` `CSS` `HTML` `SQL`  | 
 | Techsture | [view](https://drive.google.com/file/d/1M0N9CtazJrXOrhcThd95a9Uxx9gFKQYT/view) | [view](https://drive.google.com/file/d/1M0N9CtazJrXOrhcThd95a9Uxx9gFKQYT/view) | `Open-Source Toolbox` `Business Model`|
-| MedPulse | Still in Progress | [view](https://github.com/VinodKumarN1/medpulse) | `Next.js` `TypeScript` `Node.js` `Tailwind CSS` `Appwrite` |
+| MedPulse | Still in Progress | [view](https://github.com/VinodKumarN1/medpulse) | `Next.js` `TypeScript` `React.js` `Node.js` `Tailwind CSS` `Appwrite` |
 
 <br>
 <!------------------------------------------------------------------------------- Github stats Section ------------------------------------------------------------------------------------------------ -->
