@@ -12,20 +12,19 @@
 ------------------------------------------------------
  <h3 align="left">About Me</h3><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
-✨ **Full Stack Web Development Enthusiast** <br>
+✨ **Full-Stack Development Enthusiast** <br>
 🔭 I’m currently working on **MedPulse** [**My Project Work**](https://github.com/VinodKumarN1/medpulse) <br>
-👯 I’m looking to collaborate on **Frontend Developer | JavaScript Developer** <br>
+👯 I’m looking to collaborate as **Frontend Developer | JavaScript Developer** <br>
 🌱 I’m currently learning **React.JS and Node.JS** <br>
-📫 How to reach me: [Mail me](mailto:vinodkumarnkumar850@gmail.com)<br>
-📄 Know about: [My Experiences](https://www.linkedin.com/in/vinodkumarn2/details/experience/)<br>
-💬 Ask me about **FSD/Web Development**<br>
+📫 How to reach me: [**Mail me**](mailto:vinodkumarnkumar850@gmail.com)<br>
+📄 Know about: [**My Experiences**](https://www.linkedin.com/in/vinodkumarn2/details/experience/)<br>
 <!--- Adding Tech Stack open Section -->
 <p align="left">Passionate about building impactful web and app solutions, I'm focused on deepening my expertise in Object-Oriented Programming (OOP) principles, JavaScript, and its core frameworks. I’m enthusiastic about contributing to innovative projects that push the boundaries of web and mobile app development. With a strong foundation and an eagerness to expand my skills, I aim to create efficient, scalable, and user-friendly applications that make a difference.</p>
 
 
 <!------------------------------------------------------------------------------- Tools and technology Section ------------------------------------------------------------------------------------------------ -->
 
-<h1>Tools & Technology<img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/></h1>
+# Tools & Technology <img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/>
 
 <table align="center" class="table table-dark">
   <tr bg-dark>
@@ -38,23 +37,23 @@
       <br>TypeScript
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" alt="icon" width="55" height="55" />
-      <br>Express JS
+      <img src="https://skillicons.dev/icons?i=js" alt="icon" width="55" height="55" />
+      <br>JavaScript
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwindcss" alt="icon" width="55" height="55" />
+      <br>Tailwind CSS
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="55" height="55" />
       <br>Node JS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=kotlin" alt="icon" width="55" height="55" />
-      <br>Kotlin
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="55" height="55" />
-      <br>MongoDB
-    </td>
+    </td>  
   </tr>
   <tr>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=appwrite" alt="icon" width="55" height="55" />
+      <br>Appwrite
+    </td>
      <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=python" alt="icon" width="55" height="55" />
       <br>Python
@@ -63,44 +62,18 @@
       <img src="https://skillicons.dev/icons?i=django" alt="icon" width="55" height="55" />
       <br>Django
     </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=r" alt="icon" width="55" height="55" />
-      <br>R
-    </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwindcss" alt="icon" width="55" height="55" />
-      <br>Tailwind CSS
-    </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="55" height="55" />
-      <br>Mysql
+      <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="55" height="55" />
+      <br>PostMan API
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="55" height="55" />
-      <br>Figma
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=php" alt="icon" width="55" height="55" />
+      <br>PHP SQL
     </td>
   </tr>
 </table>
 
 <br>
-
-## GSSOC(24) and Hacktoberfest Badges 🪶
-
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard"></a>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-</div>
-<br>
-  <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="100px" height="100px"/>
-<img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" width="100px" height="100px"/>
-<img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-tumbler-0-0-0.webp" width="100px" height="100px"/>
-<img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-tumbler-hoodie-0-0.webp" width="100px" height="100px"/>
-  </div>
 
   
 <!------------------------------------------------------------------------------- Projects Section ------------------------------------------------------------------------------------------------ -->
@@ -128,19 +101,7 @@
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinodkumarn1&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinodkumarn1&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vinodkumarn1&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=vinodkumarn1&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 
-<p align="center">
-   <a>
-     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinodkumarn1&theme=radical" alt="vinodkumarn" /></p>
-   </a>
-</p>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinodkumarn1&theme=synthwave-84&true&hide_border=true" />
-</div>
-
-<hr>
 
 <p align="center">
   <b>Thanks for your visit to my profile!😊</b>
