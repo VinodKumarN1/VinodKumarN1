@@ -6,7 +6,7 @@
   <a href="https://x.com/VinodK70921">Twitter</a> -
   <a href="https://discord.gg/z6wXXqs6">Discord</a> -
   <a href="mailto:vinodkumarnkumar850@gmail.com">Contact</a> -
-  <a href="https://www.hackerrank.com/dashboard">HackerRank</a>
+  <a href="https://www.hackerrank.com/profile/vinodkumarnkuma1">HackerRank</a>
   </p>
 
 <!------------------------------------------------------------------------------- About Section ------------------------------------------------------------------------------------------------ -->
