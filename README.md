@@ -13,10 +13,10 @@
 ------------------------------------------------------
  <h3 align="left">About Me</h3><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
-✨ **Full-Stack Development Enthusiast** <br>
-🔭 I’m currently working on **MedPulse** [**My Project Work**](https://github.com/VinodKumarN1/medpulse) <br>
-👯 I’m looking to collaborate as **Frontend Developer | JavaScript Developer** <br>
-🌱 I’m currently learning **React.JS and Node.JS** <br>
+✨ **Full-Stack Development and AWS Cloud Solutions Architect Enthusiast** <br>
+🔭 I’m currently working on **Cloud Development Projects** <br>
+👯 I’m looking to collaborate as **Frontend Developer | JavaScript Developer | Cloud Architect** <br>
+🌱 I’m currently learning **React.JS, Node.JS, SQL and AWS Services** <br>
 📫 How to reach me: [**Mail me**](mailto:vinodkumarnkumar850@gmail.com)<br>
 📄 Know about: [**My Experiences**](https://www.linkedin.com/in/vinodkumarn2/details/experience/)<br>
 <!--- Adding Tech Stack open Section -->
