@@ -75,6 +75,10 @@
       <img src="https://skillicons.dev/icons?i=php" alt="icon" width="55" height="55" />
       <br>PHP SQL
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" alt="icon" width="55" height="55" />
+      <br>JAVA
+    </td>
   </tr>
 </table>
 
