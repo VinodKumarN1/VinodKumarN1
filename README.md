@@ -3,10 +3,10 @@
   <h1 align="center">Hi there, I'm Vinod Kumar N</h1>
   <p align="center">
   <a href="https://www.linkedin.com/in/vinodkumarn2/">LinkedIn</a> - 
-  <a href="https://x.com/VinodK70921">Twitter</a> -
   <a href="https://discord.gg/z6wXXqs6">Discord</a> -
   <a href="mailto:vinodkumarnkumar850@gmail.com">Contact</a> -
-  <a href="https://www.hackerrank.com/profile/vinodkumarnkuma1">HackerRank</a>
+  <a href="https://www.hackerrank.com/profile/vinodkumarnkuma1">HackerRank</a> -
+  <a href="https://https://app--vinods-portfolio-bd0ba5d3.base44.app">Portfolio</a>
   </p>
 
 <!------------------------------------------------------------------------------- About Section ------------------------------------------------------------------------------------------------ -->
