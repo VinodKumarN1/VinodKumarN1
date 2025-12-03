@@ -29,13 +29,13 @@
 
 <table align="center" class="table table-dark">
   <tr bg-dark>
+<td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" alt="icon" width="55" height="55" />
+      <br>JAVA
+    </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
       <br>React JS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="55" height="55" />
-      <br>TypeScript
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=js" alt="icon" width="55" height="55" />
@@ -45,10 +45,6 @@
       <img src="https://skillicons.dev/icons?i=tailwindcss" alt="icon" width="55" height="55" />
       <br>Tailwind CSS
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="55" height="55" />
-      <br>Node JS
-    </td>  
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="55" height="55" />
       <br>AWS
@@ -75,10 +71,7 @@
       <img src="https://skillicons.dev/icons?i=php" alt="icon" width="55" height="55" />
       <br>PHP SQL
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" alt="icon" width="55" height="55" />
-      <br>JAVA
-    </td>
+    
   </tr>
 </table>
 
