@@ -2,8 +2,7 @@
 
   <h1 align="center">Hi there, I'm Vinod Kumar N</h1>
   <p align="center">
-  <a href="https://www.linkedin.com/in/vinodkumarn2/">LinkedIn</a> - 
-  <a href="https://discord.gg/z6wXXqs6">Discord</a> -
+  <a href="https://www.linkedin.com/in/vinodkumarn2/">LinkedIn</a> -
   <a href="mailto:vinodkumarnkumar850@gmail.com">Contact</a> -
   <a href="https://www.hackerrank.com/profile/vinodkumarnkuma1">HackerRank</a> -
   <a href="https://app--vinods-portfolio-bd0ba5d3.base44.app">Portfolio</a>
@@ -76,38 +75,6 @@
 </table>
 
 <br>
-
-  
-<!------------------------------------------------------------------------------- Projects Section ------------------------------------------------------------------------------------------------ -->
-
-
-
-# Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
-
-| Projects | Deployed Link | Repository | Tech Stack & Tools |
-|:---------|:-------------:|:----------:|:-------------------|
-| Musicfy | [view](https://musicfy-vin.netlify.app/) | [view](https://github.com/VinodKumarN1/Musicfy-Clone) | `HTML` `CSS` `JavaScript` | 
-| Web-Development--Student-Internship-System | [view](https://internship-survey.netlify.app/) | [view](https://github.com/VinodKumarN1/Web-Development--Student-Internship-System) | `PHP` `JavaScript` `CSS` `HTML` `SQL`  | 
-| Techsture | [view](https://drive.google.com/file/d/1M0N9CtazJrXOrhcThd95a9Uxx9gFKQYT/view) | [view](https://drive.google.com/file/d/1M0N9CtazJrXOrhcThd95a9Uxx9gFKQYT/view) | `Open-Source Toolbox` `Business Model`|
-| MedPulse | Still in Progress | [view](https://github.com/VinodKumarN1/medpulse) | `Next.js` `TypeScript` `React.js` `Node.js` `Tailwind CSS` `Appwrite` |
-
-<br>
-<!------------------------------------------------------------------------------- Github stats Section ------------------------------------------------------------------------------------------------ -->
-
-# Github Stats 🧊
-
-<div align="center">
-
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinodkumarn1&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinodkumarn1&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinodkumarn1&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinodkumarn1&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vinodkumarn1&theme=radical&utcOffset=8">
-
-
-<p align="center">
-  <b>Thanks for your visit to my profile!😊</b>
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinodkumarn1&label=Profile%20views&color=0e75b6&style=flat" alt="vinodkumarn1" /> </p>
 
